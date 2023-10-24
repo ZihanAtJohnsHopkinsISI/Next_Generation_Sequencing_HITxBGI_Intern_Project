@@ -1,6 +1,6 @@
-# Description
+## Description
 
-## This program is to find the starting position of matching DNA sequence and the ending position of matching DNA sequence in the reference DNA sequence. 
+**This program is to find the starting position of matching DNA sequence and the ending position of matching DNA sequence in the reference DNA sequence.**
 
 ### Steps need to implement:
 
